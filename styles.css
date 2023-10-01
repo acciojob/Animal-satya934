@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-#animal-photo{
+#animal-photos{
 	background-color:black;
 	padding:10px
 	
@@ -10,7 +10,7 @@
 	
 }
 .photos{
-	margin-left:100px;
+	margin:0px 100px;
 }
 .photos>img{
 	width:100px;
